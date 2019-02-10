@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Users/kbh/Desktop/dlib-master/dlib/CMakeLists.txt
+C:/Users/kbh/Desktop/dlib-master/dlib/release_build_by_default
+C:/Users/kbh/Desktop/dlib-master/dlib/use_cpp_11.cmake
+C:/Users/kbh/Desktop/dlib-master/dlib/add_global_compiler_switch.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindGIF.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPNG.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindZLIB.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindJPEG.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Users/kbh/Desktop/dlib-master/dlib/cmake_find_blas.txt
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckTypeSize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindCUDA.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
